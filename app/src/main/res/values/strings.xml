@@ -1,4 +1,5 @@
 <resources>
+
     <string name="app_name">"Жеребцов Денис"</string>
     <string name="rating_title">"Рейтинг"</string>
     <string name="line_code_tilte">"Написано строк кода"</string>
@@ -8,7 +9,6 @@
     <string name="profile_Vk_title">"Профиль в VK"</string>
     <string name="repo_title">"Репозиторий"</string>
     <string name="about_me_title">"О себе"</string>
-
     <string name="rating_body">"10"</string>
     <string name="line_code_body">"4500"</string>
     <string name="projects_body">"3"</string>
@@ -16,6 +16,6 @@
     <string name="email_body">"zdt1985@yandex.ru"</string>
     <string name="profile_Vk_body">"https://vk.com/id199928471"</string>
     <string name="repo_body">"https://github.com/zdt1985/DevIntensive"</string>
-    <string name="about_me_body">"Если гуглить не умел, то ничего не сделал бы."</string>
+    <string name="about_me_body">"С каждым занятием все сложнее и интереснее"</string>
 
 </resources>

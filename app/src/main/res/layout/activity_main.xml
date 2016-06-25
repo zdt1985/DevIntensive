@@ -40,7 +40,7 @@
 
                 </LinearLayout>
 
-                <View style="@style/top_Line"/>
+                <View style="@style/top_line"/>
 
                 <LinearLayout
                     android:layout_width="0dp"
@@ -60,7 +60,7 @@
 
                 </LinearLayout>
 
-                <View style="@style/top_Line"/>
+                <View style="@style/top_line"/>
 
                 <LinearLayout
                     android:layout_width="0dp"
@@ -97,7 +97,7 @@
 
                         <EditText
                             android:id="@+id/phone"
-                            style="@style/et"
+                            style="@style/ed_text"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:hint="@string/mobile_phone_title"
@@ -128,7 +128,7 @@
 
                         <EditText
                             android:id="@+id/email"
-                            style="@style/et"
+                            style="@style/ed_text"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:hint="@string/email_title"
@@ -159,7 +159,7 @@
 
                         <EditText
                             android:id="@+id/vk"
-                            style="@style/et"
+                            style="@style/ed_text"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:hint="@string/profile_Vk_title"
@@ -188,7 +188,7 @@
 
                         <EditText
                             android:id="@+id/repository"
-                            style="@style/et"
+                            style="@style/ed_text"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:hint="@string/repo_title"
@@ -221,12 +221,9 @@
 
                         <EditText
                             android:id="@+id/about_me"
-                            style="@style/et"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
+                            style="@style/ed_text"
                             android:hint="@string/about_me_title"
                             android:inputType="textMultiLine"
-                            android:lines="5"
                             android:text="@string/about_me_body"/>
                     </android.support.design.widget.TextInputLayout>
                 </LinearLayout>
